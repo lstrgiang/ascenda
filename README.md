@@ -3,7 +3,7 @@
 
 - [x] 1. Merge hotel data of different suppliers
     - [x] 1. Parse data
-    - []  2. Clean data
+    - [ ] 2. Clean data
     - [x] 3. Select what you think is the best data to deliver using some simple rules (mostly merge rules)
 - [x] 2. Deliver it via an API endpoint by you which allows us to query the hotels data with some simple filtering
 
